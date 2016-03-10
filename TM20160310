@@ -1,8 +1,17 @@
 Scenario:
-Scenario for text based adventure game.
+You have started a text based adventure game. You are in a room with a
+large computer named WOPR. WOPR speaks to you and says:
+ScenarioEnd:
 
-Answer: yes
+Question:
+Shall we play a game?
+
+Answer:
+yes
+Goto:
 XX20160310
 
-Answer: no
+Answer:
+no
+Goto:
 YY20160310
