@@ -1,0 +1,10 @@
+You are taking a walk through town on a sunny day.
+The streets are not so busy, every now and then you are passed by some people.
+You turn a corner and notice two men about to fight, it seems serious but you are not sure whether to stop the fight or just let it play out.
+
+
+
+
+Decisions:
+1. You can jump between them and try to stop the fight.
+2. You can stand on the corner and see what happens. 
