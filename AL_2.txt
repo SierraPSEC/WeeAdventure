@@ -1,0 +1,13 @@
+You are standing in the doorway when you are suddenly attacked by a crazed person. 
+You see a stick besides you, but are hesitant because he still might overpower you.
+
+
+
+
+
+
+
+
+Decisions:
+1. You can decide to go for the stick and try to fight
+2. You can try to dodge the attacker and run
