@@ -1,0 +1,16 @@
+Scenario:
+You're sitting in your family room watching TV with your family and all of the sudden you hear some glass break. It's an armed and dangerous burglar. In order to survive, you must fight the burglar and get shot in the leg, or you can take the whole family into the laundry room and wait for him to leave. 
+
+
+Question:
+will you fight or hide?
+
+
+Answer:
+fight
+run towards burglar 
+
+
+Answer: 
+wait
+stay for 2 minutes
