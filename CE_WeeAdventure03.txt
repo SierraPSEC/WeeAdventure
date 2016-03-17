@@ -1,0 +1,13 @@
+Scenario:
+you are outside walking by yourself in the middle of the night coming home from a party. it is very late and dark and you are a little drunk. you come across a house with a door wide open with no lights on inside. 
+
+Question: 
+do you walk in and investigate or call the police
+
+answer:
+Walk in
+now the door locks as you go in
+
+answer: 
+call police
+your a great citizen, game over! :)
