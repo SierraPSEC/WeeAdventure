@@ -1,0 +1,19 @@
+You wake up in what seems to be an old abandoned hospital. 
+In front of you is an elevator. 
+Next to the elevator you see a flight of stairs leading up.
+What path will you take up?
+
+
+
+
+
+
+Decisions:
+1. You decide to take the elevator up
+2. You decide to take the stairs up
+
+
+
+
+
+
