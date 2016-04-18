@@ -1,5 +1,6 @@
 Scenario:
 You're running through the forest and you have only 1 shot to escape the bear. You can either jump into the 100ft waterfall and withstand serious injuries, or you can climb up a 50ft tree and wait 48 hours for the bear to leave. 
+ScenarioEnd
 
 Question:
 Will you jump or climb?
