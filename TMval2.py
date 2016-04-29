@@ -2,7 +2,7 @@
 # http://stackoverflow.com/questions/18865210/how-to-strip-newlines-from-each-line-during-a-file-read
 
 ## Open the file with read only permit
-f = open('TM20160310')
+f = open('NE_First.txt')
 ## Read the first line 
 line = f.readline()
 
